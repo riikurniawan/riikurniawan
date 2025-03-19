@@ -1,7 +1,7 @@
 <h1 align="center">Hi, There 👋</h1>
 <p align="center">
-  <a href="https://riikurniawan.github.io/" target="_blank">portfolio</a>
-  <a href="mailto:arikurnia27601@gmail.com" target="_blank">email</a>
+  <a href="https://riikurniawan.github.io/" target="_blank" rel="noopener noreferrer">portfolio</a>
+  <a href="mailto:arikurnia27601@gmail.com" target="_blank" rel="noopener noreferrer">email</a>
 </p>
 
 ### About Me
