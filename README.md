@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ari Kurniawan 👋</h1>
+<p align="center">
+  <a href="https://riikurniawan.github.io/">portfolio</a>
+  <a href="mailto:arikurnia27601@gmail.com">email</a>
+</p>
 
-<!--
-**riikurniawan/riikurniawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Social Media
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ariikurniawan)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/arikurniawan.dev)
 
-Here are some ideas to get you started:
+### Languages and Tools
+[![Tools % Skills](https://skillicons.dev/icons?i=php,javascript,java,python,nodejs,react,nextjs,docker,vscode,git,bash)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p><img src="https://komarev.com/ghpvc/?username=riikurniawan&label=Visitor&color=0e75b6&style=flat" alt="visitor" /> </p>
