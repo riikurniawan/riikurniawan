@@ -1,8 +1,11 @@
-<h1 align="center">Hi, I'm Ari Kurniawan 👋</h1>
+<h1 align="center">Hi, There 👋</h1>
 <p align="center">
   <a href="https://riikurniawan.github.io/">portfolio</a>
   <a href="mailto:arikurnia27601@gmail.com">email</a>
 </p>
+
+### About Me
+I'm Ari Kurniawan, people call me Ari and i'm student 3rd year from [Politeknik Negeri Batam](https://www.polibatam.ac.id/). Feel free to connect with me.
 
 ### My Social Media
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ariikurniawan)
@@ -10,6 +13,5 @@
 
 ### Languages and Tools
 [![Tools % Skills](https://skillicons.dev/icons?i=php,javascript,java,python,nodejs,react,nextjs,docker,vscode,git,bash)](https://skillicons.dev)
-
 
 <p><img src="https://komarev.com/ghpvc/?username=riikurniawan&label=Visitor&color=0e75b6&style=flat" alt="visitor" /> </p>
