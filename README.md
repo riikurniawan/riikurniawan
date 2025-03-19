@@ -5,7 +5,7 @@
 </p>
 
 ### About Me
-I'm Ari Kurniawan, but you can call me Ari. I'm student a 3rd-year student [Politeknik Negeri Batam](https://www.polibatam.ac.id/). Feel free to connect with me!
+I'm Ari Kurniawan, but you can call me Ari. I'm student a 3rd-year student at [Politeknik Negeri Batam](https://www.polibatam.ac.id/). Feel free to connect with me!
 
 ### My Social Media
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ariikurniawan)
